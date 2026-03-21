@@ -10,4 +10,8 @@ add_executable(C___4sem main.cpp
         t05.cpp
         A05.cpp
         potok/reverse.cpp
-        T/t07.cpp)
+        T/t07.cpp
+        a04.cpp
+        a07.cpp
+        a06.cpp
+        T/t12.cpp)

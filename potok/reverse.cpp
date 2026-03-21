@@ -29,8 +29,3 @@ A::~A() {
 
 bool A::last_el = false;
 
-
-int main() {
-    {A a;}
-    cout << endl;
-}
